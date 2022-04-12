@@ -1,0 +1,14 @@
+.item{
+  display: flex;
+  border: 2px solid black;
+}
+.app{
+  align-items: center;
+  text-align: center;
+}
+.green{
+  color: green;
+}
+.red{
+  color: red;
+}
